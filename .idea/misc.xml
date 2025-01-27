@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/my-mybatis-app/pom.xml" />
         <option value="$PROJECT_DIR$/my-mybatis-module/pom.xml" />
+        <option value="$PROJECT_DIR$/my-mybatis-app-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/my-mybatis-app-resource/pom.xml" />
       </list>
     </option>
   </component>
